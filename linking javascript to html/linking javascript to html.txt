@@ -1,0 +1,10 @@
+to link javascript to hmtl we have 2 method either write <script> inside body tag or head tag 
+
+or you can link it using link tag <script src="hello.js"></script>
+
+hello.js :
+
+document.writeln("hello iam dinesh");
+
+in this code either you can use the semicolon ; or not doesnot matter.
+and similarly inside box you can use double " or ' but it works 
