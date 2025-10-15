@@ -1,0 +1,19 @@
+1.  console.log("hello world");   == to print hello world in the console  
+
+but to print into the browswer  document.writeln("hello world");
+
+you can use ; or you can skip
+
+
+2. <html>
+    <head>
+        <title> first program of javascript</title>
+    </head>
+    <body>
+        <script>
+            document.writeln("hello world");
+        </script>
+    </body>
+</html>
+
+you can use <script> tag in any place either in <body> or <head>
